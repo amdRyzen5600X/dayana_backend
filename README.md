@@ -20,6 +20,12 @@ To download dependencies
 npm install
 ```
 
+to run server
+
+```bash
+npm start
+```
+
 ## note 
 server runs on 3000 port of localhost
 
